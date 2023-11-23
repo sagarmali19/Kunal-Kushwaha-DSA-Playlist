@@ -45,8 +45,5 @@ public class Main {
         for(int count = 1; count != 5; count++){
             System.out.println(count);
         }
-
-
-
     }
 }
