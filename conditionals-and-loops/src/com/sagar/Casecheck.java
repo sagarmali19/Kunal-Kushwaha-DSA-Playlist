@@ -2,7 +2,7 @@ package com.sagar;
 
 import java.util.Scanner;
 
-public class casecheck {
+public class Casecheck {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         char character = input.next().trim().charAt(0);

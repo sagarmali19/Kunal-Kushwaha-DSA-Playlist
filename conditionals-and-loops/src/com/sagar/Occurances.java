@@ -2,7 +2,7 @@ package com.sagar;
 
 import java.util.Scanner;
 
-public class occurances {
+public class Occurances {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter number here : ");
