@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e20eb5e-b33a-48c2-b6e7-739047b3c018" name="Changes" comment="1st April update">
+      <change beforePath="$PROJECT_DIR$/../3 switch-staatement/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 switch-staatement/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 switch-staatement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 switch-staatement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 switch-staatement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 switch-staatement/src/com/sagar/Day.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 switch-staatement/src/com/sagar/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 switch-staatement/switch-statement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 switch-staatement/swtch-staatement.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2eUkbzDDzGjQjKE6uXUUdbivnAn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Swap">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListExample" />
+      <module name="array-and-arrayList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxItem" />
+      <module name="array-and-arrayList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiAL" />
+      <module name="array-and-arrayList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swap" />
+      <module name="array-and-arrayList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TDArray" />
+      <module name="array-and-arrayList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Swap" />
+        <item itemvalue="Application.MaxItem" />
+        <item itemvalue="Application.MultiAL" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.TDArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e20eb5e-b33a-48c2-b6e7-739047b3c018" name="Changes" comment="" />
+      <created>1711966620420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711966620420</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1st April update">
+      <option name="closed" value="true" />
+      <created>1711989460274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711989460274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st April update" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st April update" />
+  </component>
+</project>
